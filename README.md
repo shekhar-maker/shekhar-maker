@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shekhar-maker
 - 👀 I’m interested in java full Stack Development
-- 🌱 I’m currently learning master degree in computer appilication
+- 🌱 I’m finishing my master degree in computer appilication
 - 💞️ I’m looking to collaborate on group of people or who want to join me 
 - 📫 How to reach me shekharpalai9@gmail.com
 
